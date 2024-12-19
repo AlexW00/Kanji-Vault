@@ -8,5 +8,4 @@ An [Obsidian](https://obsidian.md/) Vault, which links together Japanese Kanji b
 
 ### Showcase
 
-https://github.com/user-attachments/assets/b10ce031-5c42-450c-9b77-dc19dbdfdca5
-
+https://github.com/user-attachments/assets/7e5643aa-702a-42d3-a232-4b88d2d29e69
